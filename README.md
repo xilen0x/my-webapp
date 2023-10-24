@@ -1,3 +1,17 @@
-# Coreum tutorials sources
+#  dmusic_hackEBC
 
-[Here](https://docs.coreum.dev/tutorials/main.html) you can get the list of all tutorials.
+# Build and Run
+
+* Install dependencies
+
+```
+yarn install
+```
+
+* Run
+
+```
+yarn run dev
+```
+
+
